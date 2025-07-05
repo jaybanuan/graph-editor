@@ -1,0 +1,7 @@
+.network-graph {
+  width: 800px;
+  height: 500px;
+  border: 1px solid #ccc;
+  margin: 2rem auto;
+  background: #fff;
+}
